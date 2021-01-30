@@ -1,0 +1,10 @@
+D:\Housie\HousieTicket\HousieTicket\bin\Debug\HousieTicket.exe.config
+D:\Housie\HousieTicket\HousieTicket\bin\Debug\HousieTicket.exe
+D:\Housie\HousieTicket\HousieTicket\bin\Debug\HousieTicket.pdb
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.csprojAssemblyReference.cache
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.Form1.resources
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.Properties.Resources.resources
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.csproj.GenerateResource.cache
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.csproj.CoreCompileInputs.cache
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.exe
+D:\Housie\HousieTicket\HousieTicket\obj\Debug\HousieTicket.pdb
